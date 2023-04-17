@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "com.example.cinema.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.cinema.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.cinema.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cinema.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cinema.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.cinema.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cinema.app-merged_res-29:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.cinema.app-main-31:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.cinema.app-merged_res-29:/layout_activity_john_wick.xml.flat",
+        "source": "com.example.cinema.app-main-31:/layout/activity_john_wick.xml"
+    },
+    {
+        "merged": "com.example.cinema.app-merged_res-29:/drawable_dungeon.png.flat",
+        "source": "com.example.cinema.app-main-31:/drawable/dungeon.png"
+    },
+    {
+        "merged": "com.example.cinema.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cinema.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cinema.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cinema.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cinema.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.cinema.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.cinema.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.cinema.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cinema.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cinema.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cinema.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.cinema.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cinema.app-merged_res-29:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.cinema.app-main-31:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.cinema.app-merged_res-29:/layout_film.xml.flat",
+        "source": "com.example.cinema.app-main-31:/layout/film.xml"
+    },
+    {
+        "merged": "com.example.cinema.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.cinema.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cinema.app-merged_res-29:/drawable_johnwick4.png.flat",
+        "source": "com.example.cinema.app-main-31:/drawable/johnwick4.png"
+    },
+    {
+        "merged": "com.example.cinema.app-merged_res-29:/layout_activity_creed3.xml.flat",
+        "source": "com.example.cinema.app-main-31:/layout/activity_creed3.xml"
+    },
+    {
+        "merged": "com.example.cinema.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "com.example.cinema.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.cinema.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.cinema.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.cinema.app-merged_res-29:/drawable_ucicinemas.png.flat",
+        "source": "com.example.cinema.app-main-31:/drawable/ucicinemas.png"
+    },
+    {
+        "merged": "com.example.cinema.app-merged_res-29:/drawable_seats.png.flat",
+        "source": "com.example.cinema.app-main-31:/drawable/seats.png"
+    },
+    {
+        "merged": "com.example.cinema.app-merged_res-29:/layout_activity_dungeons.xml.flat",
+        "source": "com.example.cinema.app-main-31:/layout/activity_dungeons.xml"
+    },
+    {
+        "merged": "com.example.cinema.app-merged_res-29:/drawable_popes.png.flat",
+        "source": "com.example.cinema.app-main-31:/drawable/popes.png"
+    },
+    {
+        "merged": "com.example.cinema.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.cinema.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.cinema.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.cinema.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cinema.app-merged_res-29:/layout_activity_popes.xml.flat",
+        "source": "com.example.cinema.app-main-31:/layout/activity_popes.xml"
+    },
+    {
+        "merged": "com.example.cinema.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cinema.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cinema.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.example.cinema.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.cinema.app-merged_res-29:/drawable_creed3.png.flat",
+        "source": "com.example.cinema.app-main-31:/drawable/creed3.png"
+    },
+    {
+        "merged": "com.example.cinema.app-merged_res-29:/drawable_ticket.png.flat",
+        "source": "com.example.cinema.app-main-31:/drawable/ticket.png"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.cinema.app-mergeDebugResources-28:/layout/activity_popes.xml",
+        "source": "com.example.cinema.app-main-31:/layout/activity_popes.xml"
+    },
+    {
+        "merged": "com.example.cinema.app-mergeDebugResources-28:/layout/film.xml",
+        "source": "com.example.cinema.app-main-31:/layout/film.xml"
+    },
+    {
+        "merged": "com.example.cinema.app-mergeDebugResources-28:/layout/activity_creed3.xml",
+        "source": "com.example.cinema.app-main-31:/layout/activity_creed3.xml"
+    },
+    {
+        "merged": "com.example.cinema.app-mergeDebugResources-28:/layout/activity_main.xml",
+        "source": "com.example.cinema.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.cinema.app-mergeDebugResources-28:/layout/activity_dungeons.xml",
+        "source": "com.example.cinema.app-main-31:/layout/activity_dungeons.xml"
+    },
+    {
+        "merged": "com.example.cinema.app-mergeDebugResources-28:/layout/activity_john_wick.xml",
+        "source": "com.example.cinema.app-main-31:/layout/activity_john_wick.xml"
+    }
+]

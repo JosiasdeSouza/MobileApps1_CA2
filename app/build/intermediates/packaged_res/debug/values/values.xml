@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Popes_det">Release date: 7th Apr 2023 Running time: 1hr 44mins Director: Julius Avery Cast: Russel Crowe, Daniel Zovatto, Franco Nero</string>
+    <string name="app_name">Cinema</string>
+    <string name="creed_des">When a childhood friend and former boxing prodigy, Damian (Jonathan Majors), resurfaces after serving a long sentence in prison, he is eager to prove that he deserves his shot in the ring.</string>
+    <string name="creed_detl">"  Release date     3rd Mar 2023   Running time     1hr 56mins  Director     Michael B. Jordan  Cast     Michael B. Jordan, Tessa Thompson, Jonathan Majors, Wood Harris  "</string>
+    <string name="creed_iii">Creed 3</string>
+    <string name="creed_iii_">Creed 3</string>
+    <string name="dungeons_des">A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people.</string>
+    <string name="dungeons_det">Release date: 31st Mar 2023 Running time: 2hrs 14mins Director: Jonathan Goldstein, John Francis Daley Cast: Chris Pine, Michelle Rodriguez, Justice Smith, Regé-Jean Page, Sophia Lillis, Chloe Coleman, Daisy Head, Hugh Grant</string>
+    <string name="dungeons_minus">-</string>
+    <string name="dungeons_plus">+</string>
+    <string name="dungeons_title">Dungeons And Dragons: Honour Among Thieves</string>
+    <string name="john_desc">John Wick (Keanu Reeves) uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.</string>
+    <string name="john_det">Release date: 23rd Mar 2023 Running time: 2hrs 49mins Director: Chad Stahelski Cast: Keanu Reeves, Donnie Yen, Bill Skarsgård</string>
+    <string name="john_wick_title">John Wick: Chapter 4</string>
+    <string name="minus">-</string>
+    <string name="minus_creed">-</string>
+    <string name="plus">+</string>
+    <string name="plus_creed">+</string>
+    <string name="popes_desc">Portrayal of a real-life figure Father Gabriele Amorth, a priest who acted as chief exorcist of the Vatican and who performed more than 100,000 exorcisms in his lifetime.</string>
+    <string name="popes_title">The Pope\'s Exorcist</string>
+    <string name="ticket_qt">0</string>
+    <string name="ticket_rem">15</string>
+    <string name="todo_">TODO</string>
+    <string name="todo__">TODO</string>
+    <string name="todo_john">TODO</string>
+    <string name="todo_popes">TODO</string>
+    <style name="Theme.Cinema" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>
